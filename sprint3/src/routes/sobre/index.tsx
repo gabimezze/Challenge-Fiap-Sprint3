@@ -38,7 +38,7 @@ export default function Sobre () {
           imageSrc={trocaOleoImage}
           altText="Troca de Óleo"
           title="Troca de Óleo"
-          description="Manutenção essencial para o bom funcionamento do motor."
+          description="Manutenção essencial do óleo para o bom funcionamento do motor."
         />
         <ServiceCard
           imageSrc={freiosImage}
